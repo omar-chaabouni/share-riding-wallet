@@ -15,9 +15,7 @@ Illustratives images
      <td>History Screen</td>
   </tr>
   <tr>
-  ![315876491_478149171086078_6657905281961592106_n](https://user-images.githubusercontent.com/55398565/202920084-cc9d56d4-9d25-42b4-a2e6-70c2b03d4fbf.jpg)
-![316127672_5987409561270805_9205968560018933091_n](https://user-images.githubusercontent.com/55398565/202920087-4a43575e-e924-4ae5-8b86-042048068200.jpg)
-    <td><img src="https://user-images.githubusercontent.com/55398565/202920087-4a43575e-e924-4ae5-8b86-042048068200.jpg" width="220" height="500"></td>
     <td><img src="https://user-images.githubusercontent.com/55398565/202920084-cc9d56d4-9d25-42b4-a2e6-70c2b03d4fbf.jpg" width="220" height="500"></td>
+    <td><img src="https://user-images.githubusercontent.com/55398565/202920087-4a43575e-e924-4ae5-8b86-042048068200.jpg" width="220" height="500"></td>
   </tr>
  </table>
